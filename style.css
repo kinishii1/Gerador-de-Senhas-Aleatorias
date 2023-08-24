@@ -1,0 +1,92 @@
+body{
+  background-color: #96B6C5
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 40px;
+  color: #333;
+  padding: 20px;
+  background-color: #7091F5;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.container {
+  width: 80%;
+  text-align: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #793FDF;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+
+input {
+  width: 33%;
+  padding: 10px;
+  font-size: 30px;
+  color: #97FFF4;
+  border: 2px solid #FFFD8C;
+  border-radius: 5px;
+  outline: none;
+  text-align: center;
+  background-color: #7091F5
+}
+
+input:focus {
+  background-color: white;
+  color: #793FDF;
+}
+
+button {
+  padding: 30px 70px;
+  font-family: 'Inconsolata', monospace;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: #7091F5;
+  color: #97FFF4;
+  margin-left: 40px;
+  border: 2px solid #FFFD8C;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: white;
+  color: #793FDF;
+}
+
+label {
+  display: block;
+  font-size: 30px;
+  font-family: 'Inconsolata', monospace;
+  margin-bottom: 25px;
+  font-style: italic;
+}
+
+#password-description {
+  font-family: 'Inconsolata', monospace;
+  font-size: 30px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+
+
+#password {
+  font-family: 'Sedgwick Ave Display', cursive;
+  font-size: 27px;
+  color: #97FFF4;
+  padding: 22px;
+  background-color: #7091F5;
+  border-radius: 5px;
+  border: 2px solid #FFFD8C;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  margin-top: 20px;
+}
