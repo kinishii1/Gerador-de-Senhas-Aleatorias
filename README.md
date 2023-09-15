@@ -7,13 +7,11 @@ This is a solution to the 'Gerador de Senhas Aleatórias exercicio Trybe'.
 
 Users should be able to:
 
-- gerar senhas de acordo com a quantidade de caracteres desejado
-- nao repete caracteres seguidos
-
+Generate passwords according to the desired character length without repeating consecutive characters.
 
 ### Screenshot
 
-![]()
+![](https://github.com/kinishii1/Gerador-de-Senhas-Aleatorias/blob/main/password-generator.gif)
 
 
 ### Built with
